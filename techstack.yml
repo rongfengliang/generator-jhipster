@@ -1,0 +1,553 @@
+repo_name: rongfengliang/generator-jhipster
+report_id: ab39898b5a989f92ab85f0e0bcea80a8
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:02:11+00:00'
+requested_by: cbornet
+provider: github
+branch: master
+detected_tools_count: 40
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster
+  detection_source: Repo Metadata
+- name: EJS
+  description: An Embedded JavaScript templating Language
+  website_url: https://ejs.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Julien Dubois
+  last_updated_on: 2013-10-21 20:21:52.000000000 Z
+- name: Gherkin
+  description: A plain-text language with a simple structure
+  website_url: https://cucumber.io/docs/gherkin/reference/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster
+  detection_source: Repo Metadata
+- name: Scala
+  description: A pure-bred object-oriented language that runs on the JVM
+  website_url: http://www.scala-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1012/scala.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Julien Dubois
+  last_updated_on: 2013-10-21 20:21:52.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Pascal Grimaud
+  last_updated_on: 2016-01-09 16:03:49.000000000 Z
+- name: Apache Tomcat
+  description: An open source software implementation of the Java Servlet and JavaServer
+    Pages technologies
+  website_url: http://tomcat.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1187/tomcat.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: Pascal Grimaud
+  last_updated_on: 2016-02-02 07:12:49.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Julien Dubois
+  last_updated_on: 2013-10-21 20:21:52.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/generators/server/templates/_build.gradle
+  detection_source: generators/server/templates/_build.gradle
+  last_updated_by: Frederik Hahne
+  last_updated_on: 2016-10-09 10:17:47.000000000 Z
+- name: Logback
+  description: A logging framework for Java applications
+  website_url: https://logback.qos.ch/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/generators/server/templates/src/test/gatling/conf/logback.xml
+  detection_source: generators/server/templates/src/test/gatling/conf/logback.xml
+  last_updated_by: Frederik Hahne
+  last_updated_on: 2016-10-09 14:48:09.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 3.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-09-01 16:04:22.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Julien Dubois
+  last_updated_on: 2013-10-21 20:21:52.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Pascal Grimaud
+  last_updated_on: 2016-01-09 16:03:49.000000000 Z
+- name: Yeoman
+  description: A set of tools for automating development workflow
+  website_url: http://yeoman.io/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Scaffolding Tools
+  image_url: https://img.stackshare.io/service/853/46ea2dd8b1bdd31a8ba61044cb5b6ebe.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-09-03 17:22:43.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Julien Dubois
+  last_updated_on: 2013-10-21 20:21:52.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/generators/server/templates/src/main/docker/central-server-config/docker-config/application.yml
+  detection_source: generators/server/templates/src/main/docker/central-server-config/docker-config/application.yml
+  last_updated_by: Julien Dubois
+  last_updated_on: 2016-05-25 22:35:36.000000000 Z
+- name: Elasticsearch
+  description: Open Source, Distributed, RESTful Search Engine
+  website_url: https://www.elastic.co/products/elasticsearch
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/test/templates/compose/03-psql/src/main/docker/elasticsearch.yml
+  detection_source: test/templates/compose/03-psql/src/main/docker/elasticsearch.yml
+  last_updated_by: Pascal Grimaud
+  last_updated_on: 2016-04-06 15:43:03.000000000 Z
+- name: Insight
+  description: Dashboard and analytics for teams using Pivotal Tracker.
+  website_url: https://www.in-sight.io
+  open_source: false
+  hosted_saas: false
+  category: Collaboration
+  sub_category: Agile Project Management
+  image_url: https://img.stackshare.io/service/1511/u4rarRMd.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-09-01 16:02:25.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.15.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-09-01 16:02:25.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster
+  detection_source: Repo Metadata
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: Pierre Besson
+  last_updated_on: 2016-04-29 09:18:08.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-04-29 12:23:32.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 1.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-04-29 12:23:32.000000000 Z
+- name: cheerio
+  description: Fast, flexible, and lean implementation of core jQuery
+  package_url: https://www.npmjs.com/cheerio
+  version: 0.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15949/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-09-01 16:02:25.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 0.30.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-04-29 12:23:32.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.0.6
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-09-01 16:02:25.000000000 Z
+- name: js-yaml
+  description: YAML 1.2 parser and serializer
+  package_url: https://www.npmjs.com/js-yaml
+  version: 3.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Julien Dubois
+  last_updated_on: 2016-06-03 13:32:38.000000000 Z
+  vulnerabilities:
+  - name: Code Injection in js-yaml
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8j8c-7jfh-h6hx
+    detected_date: Aug 22
+    severity: high
+    first_patched: 3.13.1
+  - name: Denial of Service in js-yaml
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-2pr6-76vf-7546
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 3.13.0
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 0.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Anders Steiner
+  last_updated_on: 2015-07-19 13:48:20.000000000 Z
+- name: pluralize
+  description: Pluralize and singularize any word
+  package_url: https://www.npmjs.com/pluralize
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16498/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-09-01 16:02:25.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 5.3.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-09-01 16:02:25.000000000 Z
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 5.7.2
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.7.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-09-01 16:02:25.000000000 Z
+  vulnerabilities:
+  - name: Improper Privilege Management in shelljs
+    cve_id: CVE-2022-0144
+    cve_url: https://github.com/advisories/GHSA-4rq4-32rv-6wp6
+    detected_date: Jan 22
+    severity: high
+    first_patched: 0.8.5
+  - name: Improper Privilege Management in shelljs
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-64g7-mvw6-v9qj
+    detected_date: Jan 15
+    severity: moderate
+    first_patched: 0.8.5
+- name: wordwrap
+  description: Wrap those words
+  package_url: https://www.npmjs.com/wordwrap
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18046/image.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Anders Steiner
+  last_updated_on: 2015-08-30 10:25:53.000000000 Z
+- name: yeoman-assert
+  description: Assert utility from yeoman
+  package_url: https://www.npmjs.com/yeoman-assert
+  version: 2.2.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16243/default_dc80ff0a17bac19253430a4f0f586714841116db.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-09-03 17:22:43.000000000 Z
+- name: yeoman-generator
+  description: Rails-inspired generator system that provides scaffolding for your
+    apps
+  package_url: https://www.npmjs.com/yeoman-generator
+  version: 0.24.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15971/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-09-03 17:22:43.000000000 Z
+- name: yeoman-test
+  description: Test utilities for Yeoman generators
+  package_url: https://www.npmjs.com/yeoman-test
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16229/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Deepu k Sasidharan
+  last_updated_on: 2016-09-03 17:22:43.000000000 Z
+- name: yo
+  description: CLI tool for running Yeoman generators
+  package_url: https://www.npmjs.com/yo
+  version: 1.8.5
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17899/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
+  detection_source_url: https://github.com/rongfengliang/generator-jhipster/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Julien Dubois
+  last_updated_on: 2013-10-21 20:21:52.000000000 Z
